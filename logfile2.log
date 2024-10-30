@@ -1,0 +1,1500 @@
+[1mEpoch [init][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.007	0.5973	0.5902	0.0008	173.83	0.0131	169.09	0.0016	172.42	0.8968	0.9385	1.0000	0.8968	
+[1mEpoch [1][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.012	10.607	10.594	0.0086	174.14	0.0139	168.28	0.0148	172.24	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [2][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.015	5.4923	5.4767	0.0083	174.14	0.0161	167.86	0.0241	172.12	0.0091	0.0165	0.0909	0.0091	
+[1mEpoch [3][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.018	3.5932	3.5744	0.0073	174.13	0.0182	167.78	0.0384	171.75	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [4][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.021	2.4480	2.4266	0.0068	173.73	0.0211	166.43	0.0534	170.41	0.0045	0.0087	0.0909	0.0045	
+[1mEpoch [5][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.024	1.7128	1.6884	0.0073	173.48	0.0262	164.97	0.0673	168.31	0.0115	0.0221	0.2727	0.0115	
+[1mEpoch [6][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.027	1.7457	1.7185	0.0084	173.28	0.0304	160.99	0.0751	147.37	0.0035	0.0067	0.0909	0.0035	
+[1mEpoch [7][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.030	1.6031	1.5726	0.0091	173.01	0.0365	157.68	0.0827	140.25	0.0045	0.0087	0.0909	0.0045	
+[1mEpoch [8][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.033	1.6393	1.6061	0.0106	172.36	0.0394	155.49	0.0866	137.09	0.0041	0.0079	0.0909	0.0041	
+[1mEpoch [9][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.036	1.6499	1.6139	0.0124	172.02	0.0421	155.25	0.0910	134.99	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [10][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.038	1.7018	1.6635	0.0158	170.70	0.0421	155.07	0.0928	134.04	0.0132	0.0244	0.1818	0.0132	
+[1mEpoch [11][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.040	1.6830	1.6426	0.0217	170.03	0.0421	154.98	0.0929	133.27	0.0045	0.0087	0.0909	0.0045	
+[1mEpoch [12][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.043	1.5639	1.5208	0.0285	169.41	0.0434	154.70	0.0945	132.95	0.0091	0.0165	0.0909	0.0091	
+[1mEpoch [13][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.045	1.5740	1.5284	0.0331	168.83	0.0441	151.17	0.0986	132.56	0.0038	0.0073	0.0909	0.0038	
+[1mEpoch [14][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.048	1.5074	1.4591	0.0363	168.00	0.0454	136.92	0.1033	132.44	0.0073	0.0140	0.1818	0.0073	
+[1mEpoch [15][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.051	1.4921	1.4402	0.0383	166.11	0.0485	132.89	0.1115	131.80	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [16][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.055	1.4759	1.4201	0.0453	158.67	0.0499	131.99	0.1231	130.37	0.0045	0.0087	0.0909	0.0045	
+[1mEpoch [17][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.054	2.4835	2.4292	0.0410	148.00	0.0426	132.84	0.1240	128.64	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [18][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.066	1.5385	1.4719	0.0426	136.29	0.0516	131.25	0.1660	124.43	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [19][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.066	1.3663	1.2994	0.0589	135.80	0.0582	130.27	0.1310	112.86	0.0080	0.0147	0.0909	0.0080	
+[1mEpoch [20][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.077	1.4982	1.4204	0.0462	135.72	0.0592	129.91	0.1743	114.92	0.0119	0.0220	0.1818	0.0119	
+[1mEpoch [21][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.082	1.5853	1.5033	0.0553	134.65	0.0626	128.88	0.1733	108.63	0.0035	0.0067	0.0909	0.0035	
+[1mEpoch [22][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.079	1.4702	1.3909	0.0599	134.44	0.0657	127.65	0.1435	97.742	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [23][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.081	1.5157	1.4342	0.0669	134.26	0.0714	126.59	0.1319	72.309	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [24][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.098	1.5583	1.4600	0.0631	133.97	0.0859	123.26	0.1760	70.130	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [25][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.085	1.4198	1.3348	0.0642	133.65	0.0934	119.20	0.1207	inf	0.0038	0.0073	0.0909	0.0038	
+[1mEpoch [26][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.122	1.4347	1.3118	0.0565	133.27	0.1146	116.02	0.2343	61.108	0.0041	0.0079	0.0909	0.0041	
+[1mEpoch [27][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.150	1.4663	1.3159	0.0355	133.13	0.2023	110.34	0.2809	78.106	0.0038	0.0073	0.0909	0.0038	
+[1mEpoch [28][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.102	1.4806	1.3780	0.0636	132.46	0.2667	82.032	0.0553	inf	0.0038	0.0073	0.0909	0.0038	
+[1mEpoch [29][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.065	1.4573	1.3918	0.0689	132.15	0.1038	inf	0.0248	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [30][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.229	1.4816	1.2525	0.0533	132.10	0.3003	55.303	0.3798	47.670	0.0041	0.0079	0.0909	0.0041	
+[1mEpoch [31][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.125	1.6921	1.5663	0.0709	131.92	0.1456	24.191	0.1543	23.801	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [32][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.038	1.4072	1.3692	0.0814	131.53	0.0193	inf	0.0044	inf	0.0041	0.0079	0.0909	0.0041	
+[1mEpoch [33][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.190	1.6590	1.4682	0.0637	131.78	0.2971	71.491	0.2240	83.756	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [34][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.226	1.3717	1.1449	0.0726	131.33	0.3929	46.947	0.2285	40.505	0.0072	0.0139	0.1818	0.0072	
+[1mEpoch [35][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.236	1.5221	1.2854	0.0832	130.35	0.4329	54.797	0.2141	29.152	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [36][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.237	1.5039	1.2660	0.1086	128.63	0.3366	36.371	0.2867	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [37][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.315	1.5302	1.2142	0.1225	126.37	0.3889	36.283	0.4580	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [38][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.328	1.5965	1.2685	0.1679	124.55	0.4983	38.559	0.3461	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [39][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.372	1.5556	1.1833	0.4773	inf	0.4629	inf	0.2720	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [40][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.447	1.6116	1.1642	0.4951	26.539	0.4980	44.458	0.4257	43.352	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [41][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.401	1.5564	1.1549	0.4858	inf	0.5048	32.172	0.2492	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [42][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.467	1.5350	1.0678	0.6549	inf	0.5416	31.521	0.2181	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [43][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.421	1.6074	1.1860	0.5561	inf	0.4553	39.030	0.2638	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [44][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.500	1.6011	1.1004	0.5159	inf	0.4938	26.170	0.5050	32.850	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [45][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.310	1.5276	1.2167	0.4150	inf	0.3649	23.945	0.1481	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [46][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.553	1.4740	0.9203	0.6777	23.387	0.5122	24.375	0.4848	25.726	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [47][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.502	1.5486	1.0466	0.5917	inf	0.4846	44.250	0.4430	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [48][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.478	1.4880	1.0096	0.5057	inf	0.4547	inf	0.4826	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [49][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.608	1.4902	0.8812	0.7080	inf	0.5545	55.495	0.5776	23.852	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [50][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.629	1.5603	0.9310	0.7388	20.960	0.5881	50.381	0.5730	26.886	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [51][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.566	1.5653	0.9991	0.6875	inf	0.5488	38.471	0.4704	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [52][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.489	1.5277	1.0383	0.6797	inf	0.5298	48.897	0.2648	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [53][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.621	1.4901	0.8688	0.7503	inf	0.5738	47.225	0.5500	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [54][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.637	1.4575	0.8196	0.7345	20.625	0.6067	52.959	0.5861	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [55][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.524	1.4423	0.9182	0.6865	33.082	0.5785	62.755	0.3162	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [56][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.597	1.6932	1.0962	0.7293	19.480	0.5692	28.417	0.5033	48.239	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [57][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.590	1.6494	1.0586	0.7124	37.209	0.5979	51.792	0.4719	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [58][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.576	1.6138	1.0371	0.6996	inf	0.5763	35.484	0.4628	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [59][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.643	1.9151	1.2714	0.7455	28.326	0.6504	39.345	0.5453	31.692	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [60][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.574	1.5100	0.9356	0.7573	inf	0.6062	34.145	0.3679	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [61][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.618	1.6410	1.0221	0.7293	32.246	0.5825	49.862	0.5553	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [62][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.691	1.6149	0.9234	0.8029	17.147	0.6557	46.569	0.6249	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [63][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.686	1.7289	1.0423	0.8000	11.842	0.6440	34.798	0.6254	32.293	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [64][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.615	1.6588	1.0437	0.7945	13.905	0.6706	42.029	0.3869	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [65][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.633	1.6281	0.9950	0.7980	13.013	0.6557	31.923	0.4525	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [66][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.707	1.6848	0.9770	0.8113	7.6347	0.6718	29.124	0.6494	37.529	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [67][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.698	1.7924	1.0944	0.7943	21.617	0.6605	48.675	0.6494	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [68][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.645	1.6325	0.9867	0.8210	25.725	0.6589	44.762	0.4656	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [69][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.723	1.8380	1.1150	0.8305	12.032	0.6612	27.323	0.6875	23.991	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [70][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.685	1.7837	1.0983	0.7989	9.5135	0.6807	24.772	0.5838	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [71][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.505	1.6569	1.1517	0.6435	12.723	0.5929	35.578	0.2833	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [72][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.546	1.8001	1.2537	0.5893	inf	0.4874	23.346	0.5670	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [73][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.694	1.8966	1.2019	0.8188	12.945	0.7024	25.395	0.5710	20.718	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [74][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.685	1.6512	0.9661	0.8323	11.371	0.6947	35.876	0.5364	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [75][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.687	1.5741	0.8865	0.7953	12.124	0.6715	19.916	0.6029	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [76][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.740	1.6435	0.9026	0.8293	12.179	0.7132	17.355	0.6897	16.973	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [77][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.699	1.8758	1.1761	0.7875	6.7235	0.7035	18.560	0.6140	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [78][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.705	1.5188	0.8138	0.8032	12.999	0.6717	26.241	0.6463	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [79][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.715	1.8487	1.1335	0.8204	8.8375	0.6904	22.163	0.6416	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [80][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.672	1.7126	1.0407	0.7486	8.0627	0.6332	37.690	0.6399	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [81][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.681	1.6996	1.0178	0.8234	10.467	0.6973	19.072	0.5307	18.501	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [82][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.672	1.9354	1.2628	0.7764	14.390	0.6973	16.734	0.5511	16.366	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [83][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.762	2.1546	1.3923	0.8430	13.253	0.7119	16.475	0.7399	19.483	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [84][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.767	1.7978	1.0306	0.8687	9.8792	0.7180	23.139	0.7229	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [85][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.711	1.8981	1.1869	0.8119	14.450	0.6936	22.288	0.6333	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [86][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.780	1.8377	1.0577	0.8692	6.9050	0.7302	11.792	0.7472	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [87][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.590	2.4408	1.8508	0.6904	10.681	0.6070	19.481	0.4746	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [88][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.711	1.9946	1.2827	0.8163	20.398	0.6651	31.849	0.6637	36.799	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [89][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.710	2.1819	1.4709	0.8034	20.369	0.6883	35.826	0.6491	21.357	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [90][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.752	2.2412	1.4884	0.8522	16.749	0.7299	30.858	0.6844	28.192	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [91][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.672	1.9755	1.3030	0.7668	13.468	0.6618	30.437	0.5959	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [92][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.700	2.1882	1.4882	0.8441	10.267	0.7264	14.079	0.5364	19.656	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [93][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.726	2.0077	1.2813	0.8475	7.6960	0.6892	22.450	0.6511	34.579	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [94][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.677	1.8814	1.2043	0.7908	7.3864	0.6811	16.102	0.5641	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [95][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.783	2.4403	1.6567	0.8606	13.179	0.7299	22.849	0.7680	17.425	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [96][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.744	2.1971	1.4526	0.8209	22.097	0.7063	27.350	0.7138	38.392	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [97][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.674	1.9974	1.3232	0.8042	6.6185	0.7122	10.716	0.5094	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [98][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.677	2.0514	1.3743	0.7288	6.7541	0.6420	11.539	0.6639	24.786	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [99][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.742	2.1045	1.3621	0.8245	8.7099	0.7122	17.062	0.6965	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [100][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.740	2.1534	1.4128	0.8160	17.468	0.7004	29.004	0.7127	18.990	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [101][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.623	2.0146	1.3911	0.7213	inf	0.5925	20.466	0.5617	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [102][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.740	2.4857	1.7452	0.8112	10.647	0.7038	15.254	0.7114	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [103][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.722	2.0356	1.3127	0.8519	10.393	0.7290	23.816	0.5936	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [104][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.699	2.1905	1.4911	0.7828	26.639	0.6628	54.466	0.6587	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [105][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.730	2.6130	1.8825	0.8312	13.906	0.7119	18.732	0.6546	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [106][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.759	2.2446	1.4847	0.8436	10.693	0.7258	14.632	0.7159	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [107][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.754	1.9996	1.2450	0.8493	8.6961	0.7076	23.094	0.7137	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [108][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.740	2.2954	1.5545	0.8454	12.350	0.7115	21.615	0.6736	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [109][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.738	2.0116	1.2732	0.8245	13.188	0.7052	23.770	0.6913	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [110][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.755	2.3093	1.5536	0.8443	6.3561	0.7318	21.071	0.6953	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [111][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.764	2.1928	1.4288	0.8427	15.083	0.7306	26.579	0.7269	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [112][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.750	2.7116	1.9612	0.8582	9.7169	0.7532	18.538	0.6466	12.743	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [113][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.773	2.1363	1.3627	0.8580	7.8514	0.7403	11.014	0.7275	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [114][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.721	2.1274	1.4056	0.8380	13.513	0.7281	18.474	0.6047	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [115][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.776	2.5156	1.7388	0.8557	6.6851	0.7192	10.800	0.7594	28.226	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [116][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.761	2.0313	1.2694	0.8498	8.0719	0.7312	12.246	0.7094	12.376	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [117][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.794	2.4369	1.6429	0.8772	7.1643	0.7541	11.682	0.7564	30.986	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [118][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.787	2.4723	1.6845	0.8785	6.6028	0.7703	13.322	0.7202	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [119][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.809	2.4622	1.6523	0.8900	8.6054	0.7582	11.699	0.7884	19.538	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [120][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.765	2.4256	1.6600	0.8616	7.6059	0.7361	9.8284	0.7026	13.878	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [121][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.780	2.2985	1.5180	0.8660	4.9761	0.7222	9.2047	0.7580	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [122][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.775	2.1908	1.4151	0.8367	6.9687	0.7362	10.176	0.7586	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [123][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.817	2.4550	1.6374	0.8950	5.9231	0.7602	14.659	0.8040	22.292	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [124][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.786	2.1403	1.3542	0.8909	6.9971	0.7596	12.469	0.7114	15.331	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [125][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.721	2.1122	1.3908	0.8341	7.5364	0.6912	20.728	0.6425	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [126][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.769	2.5582	1.7889	0.8504	6.2570	0.7407	13.366	0.7204	17.091	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [127][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.788	2.3127	1.5245	0.8739	12.702	0.7565	27.419	0.7422	22.824	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [128][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.808	2.4428	1.6341	0.8982	7.9960	0.7772	14.121	0.7562	12.864	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [129][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.776	2.3434	1.5669	0.8626	7.3010	0.7594	11.850	0.7114	28.648	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [130][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.824	2.5394	1.7154	0.8968	13.429	0.7871	17.550	0.7941	28.699	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [131][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.792	2.0544	1.2623	0.8893	9.5982	0.7510	22.916	0.7422	17.659	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [132][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.780	2.7810	2.0008	0.8678	6.5555	0.7441	10.856	0.7334	17.799	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [133][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.795	2.9727	2.1774	0.8687	11.796	0.7584	18.338	0.7659	37.931	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [134][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.751	2.3264	1.5750	0.8449	11.981	0.7469	18.733	0.6677	16.558	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [135][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.750	2.1902	1.4395	0.8627	7.8707	0.7391	36.275	0.6580	17.522	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [136][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.801	2.5927	1.7916	0.8874	6.5135	0.7662	33.253	0.7568	13.461	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [137][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.820	2.4997	1.6792	0.8836	10.935	0.7792	14.373	0.8048	16.142	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [138][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.790	2.2415	1.4510	0.8757	10.884	0.7617	17.024	0.7384	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [139][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.779	2.3187	1.5395	0.8704	6.9600	0.7480	19.094	0.7255	21.872	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [140][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.809	2.7164	1.9068	0.8659	14.982	0.7846	16.266	0.7849	26.783	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [141][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.784	2.1315	1.3467	0.8732	8.4953	0.7439	18.469	0.7428	26.926	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [142][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.789	3.0176	2.2285	0.8941	8.0409	0.7660	13.833	0.7123	31.392	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [143][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.805	2.2590	1.4538	0.8905	10.841	0.7618	17.784	0.7701	14.438	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [144][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.817	2.3366	1.5196	0.9052	6.0442	0.7944	9.9223	0.7563	19.542	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [145][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.820	2.4756	1.6550	0.9067	6.8627	0.7910	17.843	0.7687	26.614	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [146][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.806	2.3801	1.5739	0.9034	10.212	0.7669	37.006	0.7552	22.549	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [147][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.814	2.9218	2.1069	0.9078	8.7812	0.7805	14.347	0.7621	15.146	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [148][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.811	2.4622	1.6503	0.8991	8.7697	0.7808	26.887	0.7627	22.168	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [149][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.798	2.3800	1.5820	0.8582	10.527	0.7557	14.452	0.7853	15.806	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [150][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.820	2.5870	1.7670	0.8946	7.4782	0.7872	15.342	0.7831	21.732	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [151][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.818	2.6482	1.8295	0.9013	7.0545	0.7797	14.725	0.7805	18.367	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [152][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.814	2.2127	1.3985	0.9045	5.2758	0.7796	22.734	0.7641	22.333	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [153][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.811	2.4607	1.6492	0.8911	7.2923	0.7739	18.742	0.7754	12.510	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [154][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.756	2.0972	1.3410	0.8780	7.5140	0.7326	23.105	0.6629	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [155][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.803	2.2624	1.4587	0.8799	4.6467	0.7616	21.604	0.7752	14.922	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [156][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.793	2.5760	1.7828	0.8833	9.1621	0.7621	23.715	0.7397	15.354	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [157][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.730	2.6958	1.9655	0.8071	5.9908	0.6748	11.173	0.7121	17.993	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [158][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.812	2.3902	1.5783	0.8998	4.0113	0.7861	17.026	0.7541	15.558	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [159][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.771	2.2023	1.4313	0.8795	6.3863	0.7646	17.974	0.6739	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [160][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.796	2.4480	1.6514	0.8773	4.4168	0.7871	22.437	0.7304	17.500	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [161][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.833	2.3952	1.5613	0.8886	8.9258	0.7983	13.173	0.8199	11.990	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [162][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.782	2.3486	1.5664	0.8633	4.3925	0.7497	8.9326	0.7367	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [163][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.775	2.5658	1.7902	0.8639	6.4162	0.7502	10.066	0.7165	16.373	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [164][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.840	2.9030	2.0623	0.9010	6.4608	0.7958	11.384	0.8302	21.222	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [165][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.784	2.5719	1.7876	0.8874	6.1991	0.7722	8.4276	0.6973	12.528	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [166][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.829	2.4258	1.5962	0.9092	4.4384	0.7954	15.424	0.7895	21.081	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [167][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.819	2.4888	1.6699	0.9143	7.1858	0.7923	27.775	0.7562	26.395	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [168][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.838	2.7984	1.9604	0.9032	6.2840	0.7966	16.474	0.8195	20.141	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [169][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.843	2.5799	1.7366	0.9077	6.9162	0.8085	11.085	0.8186	15.251	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [170][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.827	2.4591	1.6315	0.9005	6.9133	0.7930	9.5370	0.7935	19.458	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [171][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.3312	1.5161	0.8814	4.0321	0.7918	12.865	0.7769	12.540	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [172][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.825	2.4346	1.6093	0.8870	6.8362	0.7882	8.2828	0.8059	14.287	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [173][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.801	2.3580	1.5562	0.8860	13.247	0.7623	17.034	0.7623	11.088	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [174][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.789	2.6805	1.8911	0.8679	7.5098	0.7562	18.619	0.7478	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [175][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.812	2.6122	1.7994	0.8913	10.414	0.7793	26.178	0.7725	17.516	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [176][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.782	2.7113	1.9291	0.8639	7.1841	0.7473	10.381	0.7385	19.646	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [177][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.809	2.6353	1.8257	0.8717	5.0364	0.7684	20.583	0.7919	11.369	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [178][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.805	2.6006	1.7948	0.8943	7.1109	0.7781	14.049	0.7498	9.4374	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [179][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.800	2.5601	1.7595	0.8895	5.1123	0.7580	12.394	0.7581	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [180][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.826	2.7430	1.9170	0.9053	6.0263	0.8004	14.378	0.7780	17.300	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [181][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.834	2.6872	1.8527	0.8985	10.541	0.7921	11.898	0.8183	23.959	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [182][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.8763	2.0612	0.8932	14.016	0.7796	15.817	0.7771	18.537	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [183][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.801	2.4626	1.6613	0.8906	19.637	0.7745	31.642	0.7442	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [184][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.817	2.5009	1.6840	0.8976	5.5568	0.7917	8.6132	0.7657	13.543	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [185][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.774	2.7481	1.9737	0.8500	7.4237	0.7553	9.4639	0.7215	15.794	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [186][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.823	2.4680	1.6445	0.8957	8.0004	0.7834	8.4965	0.7960	17.679	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [187][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.832	2.6065	1.7736	0.9046	6.4842	0.8040	14.570	0.7948	21.395	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [188][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.770	2.6060	1.8356	0.8650	5.1810	0.7654	9.2312	0.6837	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [189][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.803	2.5390	1.7359	0.8933	4.9212	0.7884	8.3869	0.7326	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [190][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.822	2.6555	1.8332	0.8950	7.3813	0.7848	10.792	0.7912	17.016	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [191][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.824	2.7255	1.9008	0.8886	11.276	0.7785	12.632	0.8108	17.748	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [192][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.805	2.7746	1.9688	0.8614	3.9842	0.7712	13.381	0.7883	19.474	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [193][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.826	2.3552	1.5285	0.9040	7.3017	0.7908	13.615	0.7902	20.367	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [194][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.778	2.6292	1.8511	0.8582	6.7092	0.7442	10.375	0.7350	18.210	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [195][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.800	2.6496	1.8487	0.8846	12.753	0.7862	17.015	0.7357	19.427	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [196][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.7546	1.9396	0.8737	7.0049	0.7767	9.5949	0.7984	20.757	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [197][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.821	2.5164	1.6952	0.8925	5.7364	0.7944	11.881	0.7806	10.941	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [198][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.783	2.6840	1.9001	0.8837	10.200	0.7684	21.259	0.7054	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [199][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.791	2.6992	1.9080	0.8856	4.5543	0.7777	7.7657	0.7143	15.879	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [200][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.822	2.5362	1.7138	0.8916	6.3094	0.7939	8.4775	0.7856	11.347	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [201][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.823	2.5997	1.7760	0.8757	11.608	0.7837	14.634	0.8155	24.657	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [202][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.827	2.5508	1.7237	0.8887	6.5982	0.7968	9.6466	0.7993	14.621	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [203][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.829	2.7223	1.8931	0.8993	4.3047	0.7991	9.5972	0.7936	20.972	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [204][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.840	2.6327	1.7921	0.8944	10.539	0.7974	13.566	0.8341	30.733	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [205][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.811	2.5257	1.7145	0.8826	5.8460	0.7714	9.5184	0.7841	23.844	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [206][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.829	2.5792	1.7496	0.9062	9.4993	0.7967	11.966	0.7906	19.554	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [207][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.820	2.6035	1.7828	0.9048	4.6529	0.7939	7.6377	0.7678	22.362	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [208][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.826	2.5598	1.7329	0.8894	12.272	0.7940	12.680	0.8025	9.5842	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [209][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.834	2.7447	1.9100	0.8890	6.8784	0.7883	16.143	0.8306	10.440	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [210][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.829	2.5383	1.7090	0.8976	10.079	0.7894	16.385	0.8052	15.037	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [211][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.824	2.7099	1.8851	0.8902	7.0110	0.7831	11.556	0.8053	23.220	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [212][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.840	2.6213	1.7804	0.9017	7.9612	0.8002	11.537	0.8248	14.147	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [213][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.838	2.6300	1.7915	0.8900	5.5972	0.7974	16.724	0.8325	13.713	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [214][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.785	2.6940	1.9083	0.8757	5.7562	0.7806	10.356	0.7040	10.551	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [215][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.821	2.6366	1.8151	0.8879	4.7310	0.7933	8.8783	0.7876	12.246	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [216][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.5603	1.7452	0.8984	6.7861	0.7844	10.711	0.7665	33.220	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [217][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.828	2.6047	1.7760	0.8979	14.525	0.7818	20.847	0.8104	39.506	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [218][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.827	2.4486	1.6212	0.8975	10.829	0.7962	13.783	0.7931	29.615	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [219][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.825	2.4225	1.5973	0.8991	6.5224	0.7879	9.5332	0.7921	13.774	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [220][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.839	2.4793	1.6402	0.9071	8.9984	0.7909	13.078	0.8233	18.563	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [221][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.839	2.3644	1.5251	0.9119	4.8551	0.8008	10.694	0.8095	16.246	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [222][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.844	2.3812	1.5370	0.9143	5.1261	0.8091	7.3022	0.8138	10.616	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [223][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.805	2.4541	1.6486	0.8735	6.9984	0.7710	8.2357	0.7759	17.399	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [224][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.4838	1.6685	0.8839	7.0999	0.7891	8.7188	0.7769	11.354	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [225][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.846	2.2721	1.4254	0.9021	4.5015	0.8136	8.6637	0.8295	21.582	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [226][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.810	2.2850	1.4743	0.8848	6.6183	0.7830	10.539	0.7677	13.107	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [227][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.793	2.3515	1.5581	0.8820	5.3645	0.7664	7.7521	0.7346	16.666	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [228][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.814	2.2325	1.4179	0.9039	7.3321	0.7959	10.923	0.7485	17.575	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [229][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.828	2.2266	1.3977	0.8971	5.9605	0.7962	9.0566	0.7974	24.438	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [230][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.833	2.3358	1.5026	0.9028	9.2029	0.7922	14.375	0.8095	17.302	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [231][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.815	2.4877	1.6723	0.8808	8.1777	0.7802	14.348	0.7903	25.862	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [232][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.799	2.4068	1.6077	0.8701	7.2517	0.7684	10.380	0.7613	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [233][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.830	2.3776	1.5473	0.8967	4.9167	0.7859	9.4195	0.8122	11.944	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [234][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.834	2.4470	1.6124	0.9054	6.1781	0.8045	10.907	0.7976	14.284	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [235][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.841	2.3305	1.4895	0.8897	5.4263	0.8047	7.6326	0.8329	13.081	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [236][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.839	2.3472	1.5079	0.8912	6.5093	0.7991	12.575	0.8320	13.417	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [237][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.806	2.2858	1.4798	0.9015	9.9267	0.7962	16.424	0.7245	20.957	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [238][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.794	2.4779	1.6838	0.8971	6.0762	0.7818	11.322	0.7077	inf	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [239][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.833	2.2937	1.4598	0.9061	5.8159	0.8050	12.902	0.7955	17.443	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [240][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.845	2.3799	1.5341	0.9099	7.1857	0.8112	11.308	0.8198	15.351	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [241][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.842	2.3799	1.5379	0.9082	8.7072	0.8059	10.229	0.8164	17.132	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [242][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.848	2.3200	1.4712	0.9112	11.402	0.8117	16.392	0.8267	15.087	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [243][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.848	2.4846	1.6356	0.9097	9.5398	0.8067	12.705	0.8348	27.044	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [244][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.841	2.4368	1.5956	0.9142	6.2092	0.8013	9.5728	0.8121	19.909	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [245][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.796	2.2284	1.4317	0.8903	5.6416	0.7774	8.5361	0.7275	20.915	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [246][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.826	2.3594	1.5332	0.8925	5.0563	0.7930	8.3289	0.7966	27.171	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [247][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.841	2.3063	1.4646	0.9131	7.5843	0.7975	10.180	0.8202	21.663	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [248][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.823	2.3050	1.4813	0.9085	6.5299	0.7944	8.4092	0.7723	13.062	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [249][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.834	2.0377	1.2034	0.9074	6.1089	0.8012	9.6101	0.7991	15.329	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [init][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.020	6.3321	6.3118	0.0001	156.54	0.0078	164.14	0.0482	181.51	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [1][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.021	0.7543	0.7331	0.0024	155.11	0.0085	167.42	0.0259	178.32	1.0000	1.0000	1.0000	1.0000	
+[1mEpoch [2][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.022	1.4280	1.4055	0.0077	156.03	0.0121	167.42	0.0443	172.89	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [3][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.022	7.3605	7.3379	0.0068	157.35	0.0151	167.42	0.0451	171.66	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [4][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.019	12.108	12.088	0.0060	161.44	0.0155	167.42	0.0380	178.61	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [5][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.017	13.740	13.722	0.0101	162.87	0.0164	167.29	0.0308	180.21	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [6][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.017	13.695	13.678	0.0098	164.03	0.0171	167.29	0.0303	180.26	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [7][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.017	13.755	13.738	0.0095	164.41	0.0177	167.29	0.0286	180.80	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [8][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.016	13.453	13.436	0.0095	164.57	0.0175	167.30	0.0279	180.76	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [9][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.017	13.490	13.473	0.0107	164.87	0.0177	167.30	0.0277	180.90	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [10][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.018	13.789	13.771	0.0117	164.57	0.0185	167.24	0.0286	180.61	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [11][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.019	13.619	13.600	0.0133	164.05	0.0185	167.30	0.0302	180.31	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [12][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.020	12.369	12.349	0.0167	163.89	0.0182	167.30	0.0327	180.69	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [13][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.021	12.253	12.231	0.0212	162.83	0.0179	167.30	0.0340	181.15	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [14][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.023	11.166	11.142	0.0262	162.42	0.0176	167.42	0.0381	180.21	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [15][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.025	10.155	10.129	0.0313	161.99	0.0181	167.42	0.0413	179.79	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [16][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.028	9.0821	9.0538	0.0391	159.76	0.0184	167.42	0.0481	180.13	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [17][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.031	9.2229	9.1917	0.0505	159.70	0.0193	167.42	0.0554	179.36	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [18][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.034	8.0712	8.0367	0.0659	155.18	0.0204	167.42	0.0649	178.94	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [19][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.037	6.4950	6.4578	0.0798	153.92	0.0216	167.42	0.0717	177.85	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [20][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.040	5.1102	5.0699	0.0970	150.77	0.0235	167.42	0.0777	176.88	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [21][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.042	5.7108	5.6680	0.1091	149.63	0.0253	167.42	0.0820	176.11	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [22][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.044	5.6026	5.5581	0.1156	148.46	0.0266	167.42	0.0839	174.61	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [23][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.046	5.5717	5.5252	0.1249	147.02	0.0289	167.42	0.0865	170.68	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [24][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.048	4.8329	4.7843	0.1330	146.78	0.0304	167.42	0.0892	169.02	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [25][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.050	4.9832	4.9331	0.1379	144.17	0.0323	167.42	0.0910	165.18	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [26][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.051	5.4524	5.4010	0.1423	143.29	0.0332	167.42	0.0917	160.60	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [27][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.052	4.6553	4.6026	0.1433	142.20	0.0343	167.30	0.0930	154.84	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [28][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.054	4.2769	4.2228	0.1475	141.82	0.0363	167.02	0.0936	152.71	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [29][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.055	4.7986	4.7434	0.1498	140.90	0.0377	166.99	0.0950	151.20	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [30][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.056	4.4256	4.3694	0.1510	141.05	0.0390	166.99	0.0957	146.50	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [31][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.057	4.5642	4.5068	0.1539	140.25	0.0410	167.00	0.0971	144.65	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [32][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.058	4.0227	3.9645	0.1535	140.35	0.0420	167.00	0.0972	144.60	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [33][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.059	3.8891	3.8298	0.1549	140.27	0.0436	166.90	0.0984	142.03	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [34][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.060	3.5222	3.4618	0.1550	139.14	0.0452	166.81	0.0991	140.83	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [35][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.061	3.7274	3.6662	0.1550	138.89	0.0465	166.81	0.0996	138.96	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [36][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.062	3.1969	3.1345	0.1552	138.85	0.0485	166.84	0.1008	137.75	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [37][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.063	3.1296	3.0665	0.1551	138.80	0.0488	166.84	0.1014	137.40	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [38][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.064	3.2277	3.1636	0.1572	138.58	0.0505	166.84	0.1009	136.35	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [39][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.064	2.9939	2.9292	0.1541	138.64	0.0502	166.75	0.1019	136.84	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [40][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.065	3.6690	3.6034	0.1569	138.53	0.0507	166.78	0.1019	135.58	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [41][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.067	2.9339	2.8667	0.1605	138.36	0.0534	166.75	0.1019	134.22	0.0455	0.0606	0.0909	0.0455	
+[1mEpoch [42][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.067	2.8449	2.7771	0.1582	138.46	0.0527	166.75	0.1026	133.78	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [43][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.068	2.9178	2.8490	0.1604	138.45	0.0539	166.81	0.1023	133.43	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [44][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.069	2.8576	2.7877	0.1643	138.39	0.0547	166.81	0.1003	133.11	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [45][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.071	2.9274	2.8564	0.1655	138.37	0.0555	166.81	0.1001	132.82	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [46][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.072	2.8660	2.7940	0.1662	138.38	0.0558	165.87	0.0995	133.14	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [47][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.073	3.0451	2.9721	0.1669	138.36	0.0555	165.87	0.0988	132.93	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [48][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.073	3.2528	3.1793	0.1640	138.66	0.0544	165.82	0.0993	132.54	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [49][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.074	3.2654	3.1908	0.1681	138.53	0.0548	165.65	0.0974	132.18	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [50][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.076	2.8617	2.7850	0.1727	138.16	0.0586	165.65	0.0955	131.97	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [51][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.078	2.6018	2.5239	0.1749	137.91	0.0591	165.65	0.0943	130.99	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [52][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.079	3.1118	3.0329	0.1753	138.00	0.0590	165.65	0.0941	130.97	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [53][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.080	2.8825	2.8021	0.1775	137.91	0.0607	165.65	0.0930	130.84	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [54][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.081	2.3748	2.2937	0.1750	138.08	0.0598	165.70	0.0933	130.49	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [55][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.083	2.4695	2.3866	0.1775	137.83	0.0628	165.54	0.0915	130.40	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [56][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.084	2.1834	2.0991	0.1776	137.80	0.0638	165.71	0.0911	130.36	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [57][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.085	2.2938	2.2078	0.1784	137.80	0.0667	165.58	0.0904	130.29	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [58][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.086	1.9977	1.9112	0.1772	137.82	0.0655	165.58	0.0912	130.29	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [59][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.087	2.1685	2.0807	0.1785	137.80	0.0658	165.55	0.0910	129.99	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [60][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.088	2.3741	2.2852	0.1786	137.79	0.0666	165.55	0.0918	129.99	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [61][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.089	2.7412	2.6518	0.1769	137.83	0.0650	165.55	0.0925	129.98	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [62][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.089	2.6331	2.5434	0.1744	137.89	0.0641	165.61	0.0938	130.03	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [63][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.090	2.2197	2.1295	0.1723	137.95	0.0634	165.67	0.0953	130.05	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [64][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.091	2.5015	2.4096	0.1743	137.85	0.0652	165.67	0.0948	129.99	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [65][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.092	2.5819	2.4899	0.1722	137.90	0.0628	165.67	0.0964	130.04	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [66][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.092	2.8791	2.7862	0.1730	137.89	0.0626	165.68	0.0967	129.98	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [67][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.093	2.6583	2.5648	0.1718	137.98	0.0618	165.67	0.0980	130.01	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [68][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.093	2.9224	2.8286	0.1706	137.98	0.0605	165.68	0.0987	129.99	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [69][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.096	2.6106	2.5144	0.1746	137.88	0.0643	165.68	0.0979	129.89	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [70][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.098	2.4291	2.3312	0.1761	137.84	0.0665	165.58	0.0977	129.57	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [71][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.098	2.3281	2.2294	0.1749	137.85	0.0668	165.58	0.0982	129.75	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [72][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.100	1.8461	1.7459	0.1755	137.85	0.0684	165.58	0.0976	129.54	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [73][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.100	1.9535	1.8531	0.1737	137.90	0.0674	165.58	0.0992	129.52	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [74][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.101	2.3216	2.2199	0.1750	137.87	0.0677	165.58	0.0992	129.50	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [75][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.102	2.3694	2.2671	0.1743	137.89	0.0677	165.58	0.1003	129.52	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [76][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.101	2.5804	2.4793	0.1683	137.99	0.0651	165.58	0.1026	129.64	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [77][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.100	2.9312	2.8305	0.1656	138.06	0.0626	165.37	0.1043	129.65	0.2273	0.2727	0.3636	0.2273	
+[1mEpoch [78][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.101	2.7033	2.6023	0.1648	138.09	0.0618	165.12	0.1053	129.67	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [79][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.103	2.6621	2.5591	0.1670	137.97	0.0655	165.06	0.1051	129.54	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [80][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.103	2.6772	2.5734	0.1666	137.92	0.0659	165.06	0.1057	129.53	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [81][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.103	2.7726	2.6689	0.1645	138.01	0.0648	165.06	0.1073	129.52	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [82][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.104	2.7453	2.6409	0.1647	137.97	0.0644	165.06	0.1083	129.43	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [83][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.104	2.9360	2.8320	0.1609	138.13	0.0644	164.98	0.1099	129.53	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [84][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.104	2.6975	2.5929	0.1609	138.11	0.0649	164.98	0.1103	129.43	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [85][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.104	2.5182	2.4138	0.1585	138.15	0.0645	164.98	0.1116	129.45	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [86][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.106	2.0728	1.9660	0.1635	137.96	0.0692	164.70	0.1110	129.26	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [87][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.106	2.3377	2.2310	0.1619	138.03	0.0684	164.70	0.1121	129.26	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [88][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.109	2.2235	2.1145	0.1665	137.88	0.0719	164.70	0.1111	129.18	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [89][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.108	2.1022	1.9936	0.1643	137.94	0.0710	164.46	0.1122	129.21	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [90][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.108	2.2245	2.1159	0.1636	137.94	0.0714	164.14	0.1132	129.21	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [91][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.107	2.2018	2.0941	0.1608	138.18	0.0695	164.14	0.1147	129.25	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [92][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.107	2.1134	2.0059	0.1592	138.18	0.0691	163.73	0.1157	129.26	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [93][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.107	1.9428	1.8349	0.1593	138.26	0.0712	163.41	0.1163	129.22	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [94][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.110	1.9490	1.8390	0.1625	137.96	0.0771	163.35	0.1164	129.18	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [95][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.112	2.1361	2.0238	0.1680	137.86	0.0826	163.11	0.1146	129.01	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [96][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.111	2.0890	1.9773	0.1661	137.94	0.0822	163.11	0.1157	129.07	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [97][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.113	2.0000	1.8866	0.1699	137.79	0.0878	162.85	0.1147	129.07	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [98][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.115	1.8661	1.7509	0.1725	137.77	0.0946	162.71	0.1147	128.99	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [99][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.113	2.0279	1.9140	0.1696	137.79	0.0925	162.53	0.1167	129.06	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [100][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.115	2.1848	2.0695	0.1730	137.67	0.0966	162.53	0.1161	129.04	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [101][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.115	1.9252	1.8093	0.1745	137.53	0.0979	162.40	0.1156	129.02	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [102][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.115	1.7618	1.6467	0.1734	137.64	0.0960	162.38	0.1164	129.02	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [103][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.115	2.0114	1.8964	0.1741	137.62	0.0951	162.34	0.1165	129.10	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [104][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.116	2.2660	2.1497	0.1770	137.49	0.0995	162.35	0.1158	129.07	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [105][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.116	1.8507	1.7340	0.1776	136.70	0.1010	162.35	0.1157	129.07	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [106][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.117	2.0112	1.8936	0.1799	136.68	0.1040	161.02	0.1153	129.08	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [107][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.120	1.7918	1.6718	0.1837	136.52	0.1139	159.10	0.1145	129.10	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [108][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.121	1.7852	1.6633	0.1879	135.15	0.1188	157.41	0.1135	128.99	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [109][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.123	1.6101	1.4864	0.1918	135.05	0.1252	156.13	0.1128	128.92	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [110][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.123	1.7157	1.5921	0.1928	135.11	0.1248	155.36	0.1134	128.98	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [111][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.127	1.6591	1.5314	0.1990	134.83	0.1382	151.04	0.1129	128.98	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [112][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.129	1.6516	1.5224	0.2038	134.74	0.1396	147.33	0.1124	128.92	0.5000	0.5152	0.5455	0.5000	
+[1mEpoch [113][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.130	1.8246	1.6946	0.2061	133.06	0.1402	140.77	0.1130	128.99	0.0909	0.0909	0.0909	0.0909	
+[1mEpoch [114][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.131	1.8315	1.7004	0.2095	132.94	0.1406	138.16	0.1136	128.98	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [115][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.133	1.7565	1.6228	0.2132	132.60	0.1440	137.63	0.1140	128.96	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [116][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.134	1.6493	1.5151	0.2164	132.54	0.1436	137.47	0.1150	128.99	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [117][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.135	1.5977	1.4619	0.2196	128.62	0.1454	136.83	0.1163	128.98	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [118][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.138	1.5381	1.3992	0.2222	125.02	0.1508	136.49	0.1175	128.98	0.5455	0.5455	0.5455	0.5455	
+[1mEpoch [119][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.140	1.4480	1.3074	0.2220	113.67	0.1547	136.26	0.1195	129.13	0.5455	0.5455	0.5455	0.5455	
+[1mEpoch [120][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.139	1.6173	1.4774	0.2224	113.40	0.1545	136.27	0.1243	130.76	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [121][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.140	1.9038	1.7631	0.2236	112.99	0.1552	136.30	0.1259	131.25	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [122][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.145	1.9166	1.7709	0.2261	110.00	0.1649	135.37	0.1266	130.00	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [123][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.145	2.0870	1.9413	0.2285	108.95	0.1646	135.46	0.1294	131.51	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [124][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.147	1.8368	1.6892	0.2355	105.45	0.1681	135.20	0.1299	131.56	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [125][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.150	1.6555	1.5048	0.2445	105.36	0.1712	134.34	0.1294	131.60	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [126][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.155	2.0244	1.8690	0.2561	102.63	0.1770	133.79	0.1284	130.76	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [127][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.161	1.6721	1.5107	0.2626	92.444	0.1887	133.55	0.1296	130.22	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [128][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.166	1.6829	1.5164	0.2627	88.262	0.2004	130.31	0.1307	128.75	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [129][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.169	1.7087	1.5390	0.2724	89.329	0.2032	130.12	0.1306	128.63	0.4091	0.4545	0.5455	0.4091	
+[1mEpoch [130][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.173	1.7315	1.5582	0.2833	88.954	0.2068	129.76	0.1314	128.59	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [131][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.176	1.6787	1.5020	0.2860	86.053	0.2134	123.85	0.1338	127.85	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [132][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.179	1.5969	1.4171	0.2901	86.004	0.2193	123.43	0.1359	127.51	0.5455	0.5455	0.5455	0.5455	
+[1mEpoch [133][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.182	1.7232	1.5406	0.2905	84.855	0.2268	118.55	0.1394	127.47	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [134][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.184	1.8878	1.7030	0.2925	85.016	0.2311	116.41	0.1415	127.29	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [135][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.186	1.6498	1.4638	0.2891	84.226	0.2357	114.91	0.1467	127.03	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [136][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.189	1.6842	1.4948	0.2961	84.866	0.2373	113.19	0.1484	126.98	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [137][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.195	1.8723	1.6771	0.3049	83.864	0.2444	111.77	0.1521	126.43	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [138][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.200	1.7211	1.5203	0.3096	80.925	0.2522	110.81	0.1570	125.48	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [139][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.206	1.7979	1.5911	0.3185	82.402	0.2565	109.37	0.1628	121.85	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [140][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.216	1.9163	1.6996	0.3482	84.194	0.2587	109.17	0.1640	120.83	0.2273	0.2727	0.3636	0.2273	
+[1mEpoch [141][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.223	1.7293	1.5060	0.3498	83.304	0.2638	105.35	0.1817	118.47	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [142][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.221	2.0533	1.8316	0.3287	82.678	0.2635	103.57	0.2011	115.76	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [143][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.223	2.0420	1.8182	0.3179	83.079	0.2716	103.19	0.2178	110.67	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [144][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.221	1.9671	1.7455	0.3019	81.361	0.2694	103.08	0.2230	104.07	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [145][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.237	1.7415	1.5038	0.3361	78.653	0.2847	103.54	0.2294	86.009	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [146][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.252	1.7089	1.4560	0.3752	71.488	0.2948	102.99	0.2347	83.346	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [147][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.254	1.7613	1.5072	0.3741	63.779	0.3087	102.30	0.2193	77.987	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [148][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.238	1.9774	1.7390	0.3413	60.155	0.3223	101.65	0.1766	72.518	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [149][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.226	1.8149	1.5885	0.3143	59.808	0.3235	101.34	0.1495	66.900	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [150][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.234	1.6917	1.4575	0.3251	59.458	0.3416	100.85	0.1541	65.310	0.1818	0.2121	0.2727	0.1818	
+[1mEpoch [151][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.279	1.7487	1.4692	0.4285	60.006	0.3419	100.84	0.2236	71.718	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [152][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.293	1.9290	1.6351	0.4631	59.612	0.3489	97.685	0.2336	73.268	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [153][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.284	1.8274	1.5425	0.4198	59.127	0.3646	95.696	0.2273	72.531	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [154][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.261	1.7378	1.4763	0.3372	inf	0.3675	96.486	0.2134	75.069	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [155][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.265	1.5790	1.3136	0.3308	inf	0.3614	96.736	0.2322	77.821	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [156][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.246	1.6639	1.4175	0.2799	inf	0.3473	92.365	0.2143	73.461	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [157][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.241	1.8115	1.5705	0.2590	inf	0.3452	86.043	0.2125	75.741	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [158][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.201	1.7531	1.5518	0.1687	inf	0.3035	79.017	0.1614	76.277	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [159][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.224	2.0054	1.7813	0.1810	inf	0.3564	74.773	0.1852	74.298	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [160][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.275	1.9204	1.6454	0.2494	inf	0.4591	71.754	0.2244	67.652	0.0000	0.0000	0.0000	0.0000	
+[1mEpoch [161][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.262	2.0721	1.8096	0.2176	inf	0.4524	61.124	0.2058	64.113	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [162][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.238	1.7574	1.5190	0.1830	inf	0.4190	53.049	0.1714	60.209	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [163][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.245	1.6963	1.4510	0.1716	inf	0.4250	45.136	0.1972	61.625	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [164][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.226	1.6763	1.4497	0.1453	inf	0.3696	37.822	0.1938	61.083	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [165][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.264	1.8602	1.5955	0.1756	inf	0.4340	56.075	0.2379	71.110	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [166][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.315	2.0281	1.7126	0.2582	inf	0.4967	58.774	0.2647	74.293	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [167][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.329	1.7629	1.4338	0.2778	inf	0.5209	57.958	0.2674	74.331	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [168][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.296	1.8432	1.5463	0.2027	inf	0.5047	66.716	0.2472	66.863	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [169][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.286	1.7968	1.5099	0.1840	inf	0.4844	66.404	0.2436	62.831	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [170][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.304	1.8396	1.5348	0.2286	inf	0.4925	64.876	0.2407	63.885	0.3182	0.3636	0.4545	0.3182	
+[1mEpoch [171][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.307	1.7613	1.4543	0.2408	inf	0.4885	59.266	0.2235	62.298	0.2273	0.2727	0.3636	0.2273	
+[1mEpoch [172][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.250	1.5668	1.3162	0.1581	inf	0.4410	42.966	0.1676	48.228	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [173][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.359	1.6230	1.2639	0.3141	inf	0.5312	38.695	0.2785	54.901	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [174][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.368	1.5396	1.1707	0.3251	inf	0.5301	35.288	0.2953	54.644	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [175][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.393	1.5124	1.1195	0.3702	inf	0.5417	43.540	0.3126	55.329	0.0909	0.1212	0.1818	0.0909	
+[1mEpoch [176][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.405	1.5401	1.1344	0.4304	inf	0.5257	51.175	0.3270	65.119	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [177][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.398	1.6586	1.2599	0.4176	inf	0.5116	49.960	0.3358	62.374	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [178][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.299	1.5705	1.2709	0.2609	inf	0.4243	inf	0.2068	47.366	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [179][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.340	1.6516	1.3111	0.3316	inf	0.4531	inf	0.2386	46.676	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [180][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.347	1.4269	1.0793	0.3489	inf	0.4446	inf	0.2543	49.827	0.5000	0.5152	0.5455	0.5000	
+[1mEpoch [181][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.282	1.5126	1.2305	0.2520	inf	0.3707	inf	0.2151	49.183	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [182][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.334	1.5744	1.2395	0.3234	inf	0.4523	inf	0.2435	47.248	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [183][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.300	1.8174	1.5170	0.2636	inf	0.4354	inf	0.2085	inf	0.2273	0.2727	0.3636	0.2273	
+[1mEpoch [184][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.321	1.5231	1.2021	0.3183	inf	0.4490	inf	0.2168	inf	0.1818	0.2121	0.2727	0.1818	
+[1mEpoch [185][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.446	1.5209	1.0747	0.5998	37.101	0.5683	44.806	0.2199	65.592	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [186][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.452	1.6204	1.1677	0.5933	37.033	0.5754	45.195	0.2345	56.493	0.1818	0.2121	0.2727	0.1818	
+[1mEpoch [187][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.423	1.8676	1.4444	0.5597	39.469	0.5460	47.614	0.2032	62.956	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [188][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.404	1.5629	1.1589	0.5409	48.465	0.5222	56.974	0.1846	75.971	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [189][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.403	1.6398	1.2367	0.5417	53.389	0.5120	63.016	0.1888	80.065	0.5000	0.5152	0.5455	0.5000	
+[1mEpoch [190][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.466	1.7641	1.2979	0.5561	inf	0.5800	39.707	0.3194	60.213	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [191][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.438	1.5472	1.1083	0.4685	30.717	0.5736	32.610	0.2953	45.441	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [192][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.403	1.8127	1.4097	0.4274	inf	0.5318	33.780	0.2755	43.265	0.2727	0.3333	0.4545	0.2727	
+[1mEpoch [193][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.447	1.5204	1.0730	0.5145	inf	0.5438	29.922	0.3137	48.658	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [194][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.445	1.6197	1.1738	0.4883	27.461	0.5702	33.041	0.3054	48.469	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [195][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.485	1.6619	1.1769	0.5528	inf	0.6042	32.785	0.3438	60.556	0.4091	0.4545	0.5455	0.4091	
+[1mEpoch [196][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.503	1.5882	1.0850	0.6066	26.575	0.6040	38.610	0.3431	67.604	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [197][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.492	1.6589	1.1667	0.6015	28.584	0.5981	42.502	0.3181	65.274	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [198][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.460	1.7168	1.2560	0.5574	39.946	0.5721	45.152	0.2916	71.617	0.3182	0.3636	0.4545	0.3182	
+[1mEpoch [199][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.456	1.6391	1.1826	0.5741	41.205	0.5720	50.546	0.2578	74.108	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [200][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.467	1.6050	1.1371	0.6014	39.604	0.5860	45.782	0.2562	73.437	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [201][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.482	1.5961	1.1133	0.6188	36.091	0.5900	30.549	0.2799	60.400	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [202][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.475	1.8014	1.3262	0.5669	inf	0.5860	inf	0.3001	48.867	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [203][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.512	1.9013	1.3886	0.6266	inf	0.6056	inf	0.3499	51.119	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [204][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.513	2.0074	1.4938	0.6319	23.619	0.6039	25.112	0.3344	50.420	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [205][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.466	1.7196	1.2537	0.5310	26.075	0.5593	inf	0.3288	48.152	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [206][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.465	1.5827	1.1177	0.4859	inf	0.5475	inf	0.3774	45.374	0.2273	0.2727	0.3636	0.2273	
+[1mEpoch [207][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.488	1.6444	1.1562	0.5217	inf	0.5719	inf	0.3960	46.266	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [208][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.538	1.5033	0.9646	0.6141	inf	0.6211	19.907	0.4119	51.538	0.5000	0.5152	0.5455	0.5000	
+[1mEpoch [209][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.479	1.4867	1.0069	0.5012	inf	0.5810	inf	0.3748	43.712	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [210][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.389	1.6647	1.2757	0.3948	inf	0.4848	inf	0.2883	43.956	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [211][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.449	1.6780	1.2285	0.4557	inf	0.5340	inf	0.3760	43.562	0.5000	0.5152	0.5455	0.5000	
+[1mEpoch [212][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.497	1.7296	1.2325	0.5983	25.532	0.6122	31.524	0.3024	51.068	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [213][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.540	1.6677	1.1277	0.6349	27.247	0.6251	29.301	0.3958	44.799	0.0455	0.0606	0.0909	0.0455	
+[1mEpoch [214][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.532	1.7489	1.2160	0.6311	inf	0.6092	31.997	0.3892	45.666	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [215][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.539	1.8607	1.3209	0.6635	27.653	0.6198	33.623	0.3703	56.012	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [216][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.534	1.8154	1.2806	0.6669	27.440	0.6224	30.879	0.3498	55.840	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [217][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.479	1.7766	1.2973	0.5408	inf	0.5757	29.421	0.3377	42.095	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [218][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.358	1.8784	1.5202	0.3187	inf	0.4701	inf	0.2811	39.136	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [219][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.348	1.8032	1.4552	0.2891	inf	0.4651	inf	0.2871	38.438	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [220][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.369	1.8602	1.4909	0.3333	inf	0.4870	inf	0.2914	41.253	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [221][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.450	1.6839	1.2338	0.4729	inf	0.5673	25.894	0.3133	41.545	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [222][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.533	1.9748	1.4417	0.5847	21.062	0.6464	23.031	0.3876	43.644	0.1818	0.2121	0.2727	0.1818	
+[1mEpoch [223][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.576	1.8554	1.2791	0.6705	18.939	0.6586	23.160	0.4286	44.547	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [224][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.564	1.5877	1.0235	0.6512	21.159	0.6581	24.655	0.4133	44.771	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [225][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.522	1.6517	1.1297	0.5643	23.783	0.6435	26.068	0.3792	44.607	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [226][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.532	1.5076	0.9755	0.6184	24.111	0.6461	24.449	0.3611	44.314	0.4091	0.4242	0.4545	0.4091	
+[1mEpoch [227][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.514	1.7013	1.1865	0.5763	24.250	0.6346	24.974	0.3536	43.196	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [228][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.440	1.6693	1.2292	0.4459	inf	0.5622	inf	0.3269	43.170	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [229][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.541	1.6119	1.0702	0.6268	22.893	0.6436	22.649	0.3801	42.747	0.4545	0.4848	0.5455	0.4545	
+[1mEpoch [230][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.542	1.6084	1.0656	0.6331	23.252	0.6551	24.238	0.3646	44.810	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [231][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.546	1.8414	1.2951	0.6424	24.867	0.6472	25.602	0.3701	45.781	0.1818	0.1818	0.1818	0.1818	
+[1mEpoch [232][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.520	1.7912	1.2710	0.6039	inf	0.6294	29.955	0.3521	46.323	0.2273	0.2424	0.2727	0.2273	
+[1mEpoch [233][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.527	1.5970	1.0695	0.6155	31.224	0.6279	30.262	0.3625	47.004	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [234][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.555	1.5865	1.0315	0.6596	29.100	0.6410	27.535	0.3928	52.232	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [235][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.566	1.6109	1.0446	0.6880	24.431	0.6340	26.111	0.4068	51.500	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [236][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.464	1.6906	1.2259	0.5258	inf	0.5625	inf	0.3191	52.719	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [237][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.485	1.6671	1.1821	0.5851	inf	0.5688	inf	0.3165	53.266	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [238][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.524	1.7003	1.1763	0.6438	23.782	0.6029	27.726	0.3469	53.432	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [239][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.511	1.7633	1.2520	0.5912	inf	0.5795	24.310	0.3773	48.440	0.1364	0.1515	0.1818	0.1364	
+[1mEpoch [240][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.544	1.7631	1.2185	0.6473	24.327	0.5994	24.878	0.4142	49.562	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [241][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.551	1.5096	0.9583	0.6418	22.241	0.6017	24.461	0.4380	45.620	0.3182	0.3333	0.3636	0.3182	
+[1mEpoch [242][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.531	1.4834	0.9520	0.6037	inf	0.5980	28.331	0.4076	48.867	0.4545	0.4545	0.4545	0.4545	
+[1mEpoch [243][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.548	1.3995	0.8509	0.6309	inf	0.6114	26.535	0.4242	49.114	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [244][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.556	1.4285	0.8720	0.6490	inf	0.6088	inf	0.4335	45.921	0.3636	0.3939	0.4545	0.3636	
+[1mEpoch [245][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.532	1.4639	0.9311	0.6287	inf	0.5896	inf	0.3990	43.223	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [246][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.603	1.7702	1.1667	0.7398	16.329	0.6443	20.122	0.4469	42.422	0.3636	0.3636	0.3636	0.3636	
+[1mEpoch [247][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.530	1.5767	1.0460	0.6204	inf	0.6013	24.876	0.3920	44.550	0.2727	0.2727	0.2727	0.2727	
+[1mEpoch [248][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.579	1.6165	1.0373	0.7043	18.259	0.6333	25.577	0.4160	45.238	0.2727	0.3030	0.3636	0.2727	
+[1mEpoch [249][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	v_accu	v_f1	v_prec	v_reca	
+-0.595	1.5126	0.9171	0.7386	20.591	0.6645	23.079	0.4142	47.885	0.3636	0.3636	0.3636	0.3636	

@@ -1,0 +1,459 @@
+ModuleDict(
+  (SA): Baseline_2(
+    (unet): Generic_UNet(
+      (conv_blocks_localization): ModuleList(
+        (0-1): 2 x Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(960, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (2): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(512, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (3): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(256, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (4): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(128, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (5): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(64, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+      )
+      (conv_blocks_context): ModuleList(
+        (0): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(1, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (1): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (2): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (3): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (4): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(256, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (5): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (6): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+      )
+      (td): ModuleList()
+      (tu): ModuleList(
+        (0-1): 2 x ConvTranspose2d(480, 480, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (2): ConvTranspose2d(480, 256, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (3): ConvTranspose2d(256, 128, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (4): ConvTranspose2d(128, 64, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (5): ConvTranspose2d(64, 32, kernel_size=(2, 2), stride=(2, 2), bias=False)
+      )
+      (seg_outputs): ModuleList(
+        (0-1): 2 x Conv2d(480, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (2): Conv2d(256, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (3): Conv2d(128, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (4): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (5): Conv2d(32, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      )
+    )
+  )
+  (LA): Baseline_2(
+    (unet): Generic_UNet(
+      (conv_blocks_localization): ModuleList(
+        (0-1): 2 x Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(960, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (2): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(512, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (3): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(256, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (4): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(128, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+        (5): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(64, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+      )
+      (conv_blocks_context): ModuleList(
+        (0): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(1, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(32, 32, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(32, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (1): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(32, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (2): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (3): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (4): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(256, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (5): StackedConvLayers(
+          (blocks): Sequential(
+            (0): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+            (1): ConvDropoutNormNonlin(
+              (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+            )
+          )
+        )
+        (6): Sequential(
+          (0): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+          (1): StackedConvLayers(
+            (blocks): Sequential(
+              (0): ConvDropoutNormNonlin(
+                (conv): Conv2d(480, 480, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+                (instnorm): BatchNorm2d(480, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+                (lrelu): LeakyReLU(negative_slope=0.01, inplace=True)
+              )
+            )
+          )
+        )
+      )
+      (td): ModuleList()
+      (tu): ModuleList(
+        (0-1): 2 x ConvTranspose2d(480, 480, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (2): ConvTranspose2d(480, 256, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (3): ConvTranspose2d(256, 128, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (4): ConvTranspose2d(128, 64, kernel_size=(2, 2), stride=(2, 2), bias=False)
+        (5): ConvTranspose2d(64, 32, kernel_size=(2, 2), stride=(2, 2), bias=False)
+      )
+      (seg_outputs): ModuleList(
+        (0-1): 2 x Conv2d(480, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (2): Conv2d(256, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (3): Conv2d(128, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (4): Conv2d(64, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+        (5): Conv2d(32, 4, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      )
+    )
+  )
+)
+[1mEpoch [init][0m
+GDLoss	CELoss	Total	LV_dc	LV_hd	MYO_dc	MYO_hd	RV_dc	RV_hd	
+-0.012	1.9769	1.9645	0.0044	166.38	0.0175	161.68	0.0057	183.04	
